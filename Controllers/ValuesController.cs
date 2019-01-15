@@ -10,7 +10,10 @@ namespace netcore.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        // GET api/values
+       /// <summary>
+       /// 这是一个测试方法
+       /// </summary>
+       /// <returns></returns>
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
