@@ -1,0 +1,14 @@
+E:\新建文件夹\corewebapi\netcore\netcore\bin\Debug\netcoreapp2.1\netcore.deps.json
+E:\新建文件夹\corewebapi\netcore\netcore\bin\Debug\netcoreapp2.1\netcore.runtimeconfig.json
+E:\新建文件夹\corewebapi\netcore\netcore\bin\Debug\netcoreapp2.1\netcore.runtimeconfig.dev.json
+E:\新建文件夹\corewebapi\netcore\netcore\bin\Debug\netcoreapp2.1\netcore.dll
+E:\新建文件夹\corewebapi\netcore\netcore\bin\Debug\netcoreapp2.1\netcore.pdb
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.csprojAssemblyReference.cache
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.csproj.CoreCompileInputs.cache
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.RazorAssemblyInfo.cache
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.RazorAssemblyInfo.cs
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.AssemblyInfoInputs.cache
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.AssemblyInfo.cs
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.RazorTargetAssemblyInfo.cache
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.dll
+E:\新建文件夹\corewebapi\netcore\netcore\obj\Debug\netcoreapp2.1\netcore.pdb
